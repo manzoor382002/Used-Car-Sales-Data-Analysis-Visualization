@@ -16,5 +16,6 @@
 - Delivered data-driven recommendations on pricing strategies and inventory selection to optimize used car sales.
 
 **Tools & Technologies:** Python, BeautifulSoup, requests, MS Excel, Power BI, Statistical Analysis
-![Dashboard Screenshot](Screenshot%202025-06-29%195815.png)
+![Used Car Data Visualization](Screenshot%202025-06-29%20195815.png)
+
 
